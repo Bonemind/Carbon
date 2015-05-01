@@ -1,0 +1,8 @@
+{
+	"name": "D3 Toolkit Rift module",
+	"internalName": "riftMod",
+	"author": "Bonemind",
+	"version": "0.0.1a",
+	"homepage": "none",
+	"main_file": "RiftModule.js"
+}

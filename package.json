@@ -1,0 +1,19 @@
+{
+  "name": "D3Toolkit",
+  "version": "0.0.1",
+  "description": "Assorted Diablo 3 tools",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bonemind",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^0.13.2"
+  },
+  "dependencies": {
+    "node-stopwatch": "0.0.1",
+    "timer-stopwatch": "^0.1.5",
+    "underscore": "^1.8.3"
+  }
+}
